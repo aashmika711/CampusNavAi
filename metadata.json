@@ -1,0 +1,6 @@
+{
+  "name": "Capgemini Agentic AI Buildathon Deep Dive",
+  "description": "An interactive deep-dive dashboard demonstrating Intent Classification, Tool Selection, Agent Controllers, Context Memory, and Offline Routing in Agentic architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
